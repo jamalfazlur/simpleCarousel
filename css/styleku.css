@@ -1,0 +1,24 @@
+.my-header {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.testimonial-section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.testimonial-user {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.article-testimonial{
+    font-style: italic;
+}
+.testimonial-section .carousel-control {
+    background: none;
+    box-shadow: 0;
+    color: black;
+    /* font-size: 18px; */
+}
